@@ -12,4 +12,9 @@ let randomRestuarantType = Math.floor(Math.random() * listOfRestaurantTypes.leng
 
 console.log(listOfRestaurantTypes[randomRestuarantType]);
 
+let listOfTransportationTypes = ["A car", "A train", "A plane"];
+let randomTransportationType = Math.floor(Math.random() * listOfTransportationTypes.length);
+
+console.log(listOfTransportationTypes[randomTransportationType]);
+
 

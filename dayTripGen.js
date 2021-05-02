@@ -17,4 +17,7 @@ let randomTransportationType = Math.floor(Math.random() * listOfTransportationTy
 
 console.log(listOfTransportationTypes[randomTransportationType]);
 
+let listOfEntertainment = ["Live music", "Movie theater", "A museum"];
+let randomFormOfEntertainment = Math.floor(Math.random() * listOfEntertainment.length);
 
+console.log(listOfEntertainment[randomFormOfEntertainment]);

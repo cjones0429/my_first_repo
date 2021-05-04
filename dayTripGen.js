@@ -81,59 +81,7 @@ isYourTripComplete = prompt("Is your day trip complete? Please enter 'Yes' or 'N
 askIfTripIsComplete();
 
 
-// if(userInput == "destination" || userInput == "entertainment"){
-//     console.log("We will change the destination for you")
-//     return 
-// }
-// else if(userInput == "transportation"){
-//     console.log("We will change the transportation for you")
-// }
 
-// askUserInput()
-
-// function askUserInput(){
-    
-//     let validInput = false;
-
-//     while(validInput == false){
-//         var userInput = prompt("What option would you like changed? (Destination, resturant, transportation, entertainment)")
-
-
-
-
-
-// let userInputDestination = "Yes"
-// userInputDestination = prompt("Are you happy with this destination? Please enter 'Yes' or 'No'");
-// while(userInputDestination !== "Yes" ||  userInputDestination === "No" || userInputDestination === "no"){
-//     console.clear();
-//     generateADestination();
-// }
-// if(userInputDestination === "Yes" || userInputDestination === "yes"){
-//     console.log("Awesome!");
-// }
-
-
-
-
-// let userInputDestination = prompt("Are you happy with this destination? Please enter 'Yes' or 'No'");
-// if(userInputDestination === "Yes" || userInputDestination === "yes"){
-//     console.log("Awesome!")
-// }
-// else if(userInputDestination !== "Yes" ||  userInputDestination === "No" || userInputDestination === "no"){
-//     console.clear();
-//     generateADestination();
-//     let userWantsFirstNewDestination = prompt("Do you like this destination? Please enter 'Yes' or 'No'");
-//     if(userWantsFirstNewDestination === "Yes" || userInputDestination === "yes"){
-//         console.log("Perfect!")
-//     }
-//     else if(userWantsFirstNewDestination !== "Yes" || userWantsFirstNewDestination === "No" || userWantsFirstNewDestination === "no")
-//     console.clear();
-//     generateADestination();
-//     }
-
-//     }
-//     let userWantsSecondNewDestination = prompt("Do you like this destination? Please enter 'Yes' or 'No'");
-//     else if(userWantsSecondNewDestination)
 
 
 

@@ -1,4 +1,4 @@
 # my_first_repo
 My First Repo - Day Trip Generator
 
-test line
+This project is designed to generate a day trip of your liking by random selection. 
